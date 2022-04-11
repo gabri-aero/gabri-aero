@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabri-aero
-- 👀 I’m interested in engineering and science, specially everything to do with space and that stuff.
+- 👀 I’m interested in engineering and science, specially everything to do with space and that stuff. 🚀🛰️
 - 🖥️ I’m currently learning Python, Matlab and C++. Also I am focusing on computer graphics and physics simulations.
 
 <!---
